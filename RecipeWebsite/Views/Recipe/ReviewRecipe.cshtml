@@ -1,0 +1,23 @@
+﻿@model Review
+@{
+
+    ViewBag.Title = "Review Recipe";
+}
+
+
+<div class="text-center">
+    <h1>Review Recipe: @ViewBag.recipe.RecipeName</h1>
+    <form asp-action="ReviewRecipe" asp-controller="Recipe" method="post">
+        <div class="input-group">
+            <div class="input-group-prepend">
+                <label class="input-group-text">Write here your review:</label>
+            </div>
+            <input type="hidden" asp-for="RecipeId" />
+            <textarea class="form-control" asp-for="MyReview" ></textarea>
+        </div>
+        <div class="text-center">
+            <input type="submit" class="btn btn-primary btn-" value="Submit Review"/>
+        </div>
+</form>
+</div>
+

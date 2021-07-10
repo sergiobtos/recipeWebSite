@@ -1,0 +1,193 @@
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_01\RecipeWebsite\RecipeWebsite\bin\Debug\netcoreapp2.1\RecipeWebsite.deps.json
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_01\RecipeWebsite\RecipeWebsite\bin\Debug\netcoreapp2.1\RecipeWebsite.runtimeconfig.json
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_01\RecipeWebsite\RecipeWebsite\bin\Debug\netcoreapp2.1\RecipeWebsite.runtimeconfig.dev.json
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_01\RecipeWebsite\RecipeWebsite\bin\Debug\netcoreapp2.1\RecipeWebsite.dll
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_01\RecipeWebsite\RecipeWebsite\bin\Debug\netcoreapp2.1\RecipeWebsite.pdb
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_01\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\RecipeWebsite.csprojAssemblyReference.cache
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_01\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\RecipeWebsite.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_01\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\RecipeWebsite.RazorAssemblyInfo.cache
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_01\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\RecipeWebsite.RazorAssemblyInfo.cs
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_01\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\RecipeWebsite.AssemblyInfoInputs.cache
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_01\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\RecipeWebsite.AssemblyInfo.cs
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_01\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\RecipeWebsite.RazorTargetAssemblyInfo.cache
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_01\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\RecipeWebsite.dll
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_01\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\RecipeWebsite.pdb
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_01\RecipeWebsite\RecipeWebsite\bin\Debug\netcoreapp2.1\RecipeWebsite.Views.dll
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_01\RecipeWebsite\RecipeWebsite\bin\Debug\netcoreapp2.1\RecipeWebsite.Views.pdb
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_01\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\RecipeWebsite.TagHelpers.input.cache
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_01\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\RecipeWebsite.TagHelpers.output.cache
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_01\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\RecipeWebsite.RazorCoreGenerate.cache
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_01\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_01\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\RecipeWebsite.RazorTargetAssemblyInfo.cs
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_01\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\RecipeWebsite.Views.pdb
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_01\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\RecipeWebsite.csproj.CopyComplete
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_01\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\Razor\Views\Home\RecipeList.g.cshtml.cs
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_01\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\Razor\Views\Home\AddRecipe.g.cshtml.cs
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_01\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\Razor\Views\Home\ViewRecipe.g.cshtml.cs
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_01\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\Razor\Views\Home\ReviewRecipe.g.cshtml.cs
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_01\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_01\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_01\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_02\RecipeWebsite\RecipeWebsite\bin\Debug\netcoreapp2.1\RecipeWebsite.deps.json
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_02\RecipeWebsite\RecipeWebsite\bin\Debug\netcoreapp2.1\RecipeWebsite.runtimeconfig.json
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_02\RecipeWebsite\RecipeWebsite\bin\Debug\netcoreapp2.1\RecipeWebsite.runtimeconfig.dev.json
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_02\RecipeWebsite\RecipeWebsite\bin\Debug\netcoreapp2.1\RecipeWebsite.dll
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_02\RecipeWebsite\RecipeWebsite\bin\Debug\netcoreapp2.1\RecipeWebsite.pdb
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_02\RecipeWebsite\RecipeWebsite\bin\Debug\netcoreapp2.1\RecipeWebsite.Views.dll
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_02\RecipeWebsite\RecipeWebsite\bin\Debug\netcoreapp2.1\RecipeWebsite.Views.pdb
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_02\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\RecipeWebsite.csprojAssemblyReference.cache
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_02\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\RecipeWebsite.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_02\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\RecipeWebsite.RazorAssemblyInfo.cache
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_02\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\RecipeWebsite.RazorAssemblyInfo.cs
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_02\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\RecipeWebsite.AssemblyInfoInputs.cache
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_02\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\RecipeWebsite.AssemblyInfo.cs
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_02\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\RecipeWebsite.TagHelpers.input.cache
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_02\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\RecipeWebsite.TagHelpers.output.cache
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_02\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\RecipeWebsite.RazorCoreGenerate.cache
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_02\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_02\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\Razor\Views\Shared\RecipeSummary.g.cshtml.cs
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_02\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_02\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_02\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_02\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\RecipeWebsite.RazorTargetAssemblyInfo.cache
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_02\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\RecipeWebsite.RazorTargetAssemblyInfo.cs
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_02\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\RecipeWebsite.Views.pdb
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_02\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\RecipeWebsite.dll
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_02\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\RecipeWebsite.pdb
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_02\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\RecipeWebsite.csproj.CopyComplete
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_02\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\Razor\Views\Recipe\AddRecipe.g.cshtml.cs
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_02\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\Razor\Views\Recipe\RecipeList.g.cshtml.cs
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_02\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\Razor\Views\Recipe\ReviewRecipe.g.cshtml.cs
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_02\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\Razor\Views\Recipe\ViewRecipe.g.cshtml.cs
+C:\Users\Sergio\Documents\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\RecipeWebsite.csprojAssemblyReference.cache
+C:\Users\Sergio\Documents\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\RecipeWebsite.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\Documents\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\RecipeWebsite.RazorAssemblyInfo.cache
+C:\Users\Sergio\Documents\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\RecipeWebsite.RazorAssemblyInfo.cs
+C:\Users\Sergio\Documents\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\RecipeWebsite.AssemblyInfoInputs.cache
+C:\Users\Sergio\Documents\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\RecipeWebsite.AssemblyInfo.cs
+C:\Users\Sergio\Documents\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\RecipeWebsite.dll
+C:\Users\Sergio\Documents\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\RecipeWebsite.pdb
+C:\Users\Sergio\Documents\RecipeWebsite\RecipeWebsite\bin\Debug\netcoreapp2.1\RecipeWebsite.deps.json
+C:\Users\Sergio\Documents\RecipeWebsite\RecipeWebsite\bin\Debug\netcoreapp2.1\RecipeWebsite.runtimeconfig.json
+C:\Users\Sergio\Documents\RecipeWebsite\RecipeWebsite\bin\Debug\netcoreapp2.1\RecipeWebsite.runtimeconfig.dev.json
+C:\Users\Sergio\Documents\RecipeWebsite\RecipeWebsite\bin\Debug\netcoreapp2.1\RecipeWebsite.dll
+C:\Users\Sergio\Documents\RecipeWebsite\RecipeWebsite\bin\Debug\netcoreapp2.1\RecipeWebsite.pdb
+C:\Users\Sergio\Documents\RecipeWebsite\RecipeWebsite\bin\Debug\netcoreapp2.1\RecipeWebsite.Views.dll
+C:\Users\Sergio\Documents\RecipeWebsite\RecipeWebsite\bin\Debug\netcoreapp2.1\RecipeWebsite.Views.pdb
+C:\Users\Sergio\Documents\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\RecipeWebsite.TagHelpers.input.cache
+C:\Users\Sergio\Documents\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\RecipeWebsite.TagHelpers.output.cache
+C:\Users\Sergio\Documents\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\RecipeWebsite.RazorCoreGenerate.cache
+C:\Users\Sergio\Documents\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Sergio\Documents\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\Razor\Views\Recipe\AddRecipe.g.cshtml.cs
+C:\Users\Sergio\Documents\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\Razor\Views\Recipe\RecipeList.g.cshtml.cs
+C:\Users\Sergio\Documents\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\Razor\Views\Recipe\ReviewRecipe.g.cshtml.cs
+C:\Users\Sergio\Documents\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\Razor\Views\Recipe\ViewRecipe.g.cshtml.cs
+C:\Users\Sergio\Documents\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\Razor\Views\Shared\RecipeSummary.g.cshtml.cs
+C:\Users\Sergio\Documents\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Sergio\Documents\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Sergio\Documents\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Sergio\Documents\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\RecipeWebsite.RazorTargetAssemblyInfo.cache
+C:\Users\Sergio\Documents\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\RecipeWebsite.RazorTargetAssemblyInfo.cs
+C:\Users\Sergio\Documents\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\RecipeWebsite.Views.pdb
+C:\Users\Sergio\Documents\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\RecipeWebsite.csproj.CopyComplete
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_02\RecipeWebsite_newVersion\RecipeWebsite\bin\Debug\netcoreapp2.1\RecipeWebsite.deps.json
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_02\RecipeWebsite_newVersion\RecipeWebsite\bin\Debug\netcoreapp2.1\RecipeWebsite.runtimeconfig.json
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_02\RecipeWebsite_newVersion\RecipeWebsite\bin\Debug\netcoreapp2.1\RecipeWebsite.runtimeconfig.dev.json
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_02\RecipeWebsite_newVersion\RecipeWebsite\bin\Debug\netcoreapp2.1\RecipeWebsite.dll
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_02\RecipeWebsite_newVersion\RecipeWebsite\bin\Debug\netcoreapp2.1\RecipeWebsite.pdb
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_02\RecipeWebsite_newVersion\RecipeWebsite\bin\Debug\netcoreapp2.1\RecipeWebsite.Views.dll
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_02\RecipeWebsite_newVersion\RecipeWebsite\bin\Debug\netcoreapp2.1\RecipeWebsite.Views.pdb
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_02\RecipeWebsite_newVersion\RecipeWebsite\obj\Debug\netcoreapp2.1\RecipeWebsite.csprojAssemblyReference.cache
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_02\RecipeWebsite_newVersion\RecipeWebsite\obj\Debug\netcoreapp2.1\RecipeWebsite.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_02\RecipeWebsite_newVersion\RecipeWebsite\obj\Debug\netcoreapp2.1\RecipeWebsite.RazorAssemblyInfo.cache
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_02\RecipeWebsite_newVersion\RecipeWebsite\obj\Debug\netcoreapp2.1\RecipeWebsite.RazorAssemblyInfo.cs
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_02\RecipeWebsite_newVersion\RecipeWebsite\obj\Debug\netcoreapp2.1\RecipeWebsite.AssemblyInfoInputs.cache
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_02\RecipeWebsite_newVersion\RecipeWebsite\obj\Debug\netcoreapp2.1\RecipeWebsite.AssemblyInfo.cs
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_02\RecipeWebsite_newVersion\RecipeWebsite\obj\Debug\netcoreapp2.1\RecipeWebsite.TagHelpers.input.cache
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_02\RecipeWebsite_newVersion\RecipeWebsite\obj\Debug\netcoreapp2.1\RecipeWebsite.TagHelpers.output.cache
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_02\RecipeWebsite_newVersion\RecipeWebsite\obj\Debug\netcoreapp2.1\RecipeWebsite.RazorCoreGenerate.cache
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_02\RecipeWebsite_newVersion\RecipeWebsite\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_02\RecipeWebsite_newVersion\RecipeWebsite\obj\Debug\netcoreapp2.1\Razor\Views\Recipe\AddRecipe.g.cshtml.cs
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_02\RecipeWebsite_newVersion\RecipeWebsite\obj\Debug\netcoreapp2.1\Razor\Views\Recipe\RecipeList.g.cshtml.cs
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_02\RecipeWebsite_newVersion\RecipeWebsite\obj\Debug\netcoreapp2.1\Razor\Views\Recipe\ReviewRecipe.g.cshtml.cs
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_02\RecipeWebsite_newVersion\RecipeWebsite\obj\Debug\netcoreapp2.1\Razor\Views\Recipe\ViewRecipe.g.cshtml.cs
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_02\RecipeWebsite_newVersion\RecipeWebsite\obj\Debug\netcoreapp2.1\Razor\Views\Shared\RecipeSummary.g.cshtml.cs
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_02\RecipeWebsite_newVersion\RecipeWebsite\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_02\RecipeWebsite_newVersion\RecipeWebsite\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_02\RecipeWebsite_newVersion\RecipeWebsite\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_02\RecipeWebsite_newVersion\RecipeWebsite\obj\Debug\netcoreapp2.1\RecipeWebsite.RazorTargetAssemblyInfo.cache
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_02\RecipeWebsite_newVersion\RecipeWebsite\obj\Debug\netcoreapp2.1\RecipeWebsite.RazorTargetAssemblyInfo.cs
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_02\RecipeWebsite_newVersion\RecipeWebsite\obj\Debug\netcoreapp2.1\RecipeWebsite.Views.pdb
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_02\RecipeWebsite_newVersion\RecipeWebsite\obj\Debug\netcoreapp2.1\RecipeWebsite.dll
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_02\RecipeWebsite_newVersion\RecipeWebsite\obj\Debug\netcoreapp2.1\RecipeWebsite.pdb
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_02\RecipeWebsite_newVersion\RecipeWebsite\obj\Debug\netcoreapp2.1\RecipeWebsite.csproj.CopyComplete
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_03\RecipeWebsite\RecipeWebsite\bin\Debug\netcoreapp2.1\RecipeWebsite.deps.json
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_03\RecipeWebsite\RecipeWebsite\bin\Debug\netcoreapp2.1\RecipeWebsite.runtimeconfig.json
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_03\RecipeWebsite\RecipeWebsite\bin\Debug\netcoreapp2.1\RecipeWebsite.runtimeconfig.dev.json
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_03\RecipeWebsite\RecipeWebsite\bin\Debug\netcoreapp2.1\RecipeWebsite.dll
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_03\RecipeWebsite\RecipeWebsite\bin\Debug\netcoreapp2.1\RecipeWebsite.pdb
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_03\RecipeWebsite\RecipeWebsite\bin\Debug\netcoreapp2.1\RecipeWebsite.Views.dll
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_03\RecipeWebsite\RecipeWebsite\bin\Debug\netcoreapp2.1\RecipeWebsite.Views.pdb
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_03\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\RecipeWebsite.csprojAssemblyReference.cache
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_03\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\RecipeWebsite.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_03\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\RecipeWebsite.RazorAssemblyInfo.cache
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_03\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\RecipeWebsite.RazorAssemblyInfo.cs
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_03\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\RecipeWebsite.AssemblyInfoInputs.cache
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_03\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\RecipeWebsite.AssemblyInfo.cs
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_03\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\RecipeWebsite.TagHelpers.input.cache
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_03\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\RecipeWebsite.TagHelpers.output.cache
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_03\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\RecipeWebsite.RazorCoreGenerate.cache
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_03\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_03\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\Razor\Views\Recipe\AddRecipe.g.cshtml.cs
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_03\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\Razor\Views\Recipe\RecipeList.g.cshtml.cs
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_03\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\Razor\Views\Recipe\ReviewRecipe.g.cshtml.cs
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_03\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\Razor\Views\Recipe\ViewRecipe.g.cshtml.cs
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_03\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\Razor\Views\Shared\RecipeSummary.g.cshtml.cs
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_03\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_03\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_03\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_03\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\RecipeWebsite.RazorTargetAssemblyInfo.cache
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_03\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\RecipeWebsite.RazorTargetAssemblyInfo.cs
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_03\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\RecipeWebsite.Views.pdb
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_03\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\RecipeWebsite.dll
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_03\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\RecipeWebsite.pdb
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_03\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\RecipeWebsite.csproj.CopyComplete
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_03\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Index.g.cshtml.cs
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_03\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_AdminLayout.g.cshtml.cs
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_03\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Edit.g.cshtml.cs
+C:\Users\Sergio\Dropbox\Centennial College\3 Semestre\Comp 229 Web Application Development (SEC. 004)\Assignments\Assignment_03\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\Owner\Dropbox\Compartilhada\Assignment_03\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\RecipeWebsite.csprojAssemblyReference.cache
+C:\Users\Owner\Dropbox\Compartilhada\Assignment_03\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\RecipeWebsite.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Dropbox\Compartilhada\Assignment_03\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\RecipeWebsite.RazorAssemblyInfo.cache
+C:\Users\Owner\Dropbox\Compartilhada\Assignment_03\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\RecipeWebsite.RazorAssemblyInfo.cs
+C:\Users\Owner\Dropbox\Compartilhada\Assignment_03\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\RecipeWebsite.AssemblyInfoInputs.cache
+C:\Users\Owner\Dropbox\Compartilhada\Assignment_03\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\RecipeWebsite.AssemblyInfo.cs
+C:\Users\Owner\Dropbox\Compartilhada\Assignment_03\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\RecipeWebsite.TagHelpers.input.cache
+C:\Users\Owner\Dropbox\Compartilhada\Assignment_03\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\RecipeWebsite.TagHelpers.output.cache
+C:\Users\Owner\Dropbox\Compartilhada\Assignment_03\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\RecipeWebsite.RazorCoreGenerate.cache
+C:\Users\Owner\Dropbox\Compartilhada\Assignment_03\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\RecipeWebsite.dll
+C:\Users\Owner\Dropbox\Compartilhada\Assignment_03\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\RecipeWebsite.pdb
+C:\Users\Owner\Dropbox\Compartilhada\Assignment_03\RecipeWebsite\RecipeWebsite\bin\Debug\netcoreapp2.1\RecipeWebsite.deps.json
+C:\Users\Owner\Dropbox\Compartilhada\Assignment_03\RecipeWebsite\RecipeWebsite\bin\Debug\netcoreapp2.1\RecipeWebsite.runtimeconfig.json
+C:\Users\Owner\Dropbox\Compartilhada\Assignment_03\RecipeWebsite\RecipeWebsite\bin\Debug\netcoreapp2.1\RecipeWebsite.runtimeconfig.dev.json
+C:\Users\Owner\Dropbox\Compartilhada\Assignment_03\RecipeWebsite\RecipeWebsite\bin\Debug\netcoreapp2.1\RecipeWebsite.dll
+C:\Users\Owner\Dropbox\Compartilhada\Assignment_03\RecipeWebsite\RecipeWebsite\bin\Debug\netcoreapp2.1\RecipeWebsite.pdb
+C:\Users\Owner\Dropbox\Compartilhada\Assignment_03\RecipeWebsite\RecipeWebsite\bin\Debug\netcoreapp2.1\RecipeWebsite.Views.dll
+C:\Users\Owner\Dropbox\Compartilhada\Assignment_03\RecipeWebsite\RecipeWebsite\bin\Debug\netcoreapp2.1\RecipeWebsite.Views.pdb
+C:\Users\Owner\Dropbox\Compartilhada\Assignment_03\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\Owner\Dropbox\Compartilhada\Assignment_03\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Edit.g.cshtml.cs
+C:\Users\Owner\Dropbox\Compartilhada\Assignment_03\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Index.g.cshtml.cs
+C:\Users\Owner\Dropbox\Compartilhada\Assignment_03\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Owner\Dropbox\Compartilhada\Assignment_03\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\Razor\Views\Recipe\AddRecipe.g.cshtml.cs
+C:\Users\Owner\Dropbox\Compartilhada\Assignment_03\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\Razor\Views\Recipe\RecipeList.g.cshtml.cs
+C:\Users\Owner\Dropbox\Compartilhada\Assignment_03\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\Razor\Views\Recipe\ReviewRecipe.g.cshtml.cs
+C:\Users\Owner\Dropbox\Compartilhada\Assignment_03\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\Razor\Views\Recipe\ViewRecipe.g.cshtml.cs
+C:\Users\Owner\Dropbox\Compartilhada\Assignment_03\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\Razor\Views\Shared\RecipeSummary.g.cshtml.cs
+C:\Users\Owner\Dropbox\Compartilhada\Assignment_03\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_AdminLayout.g.cshtml.cs
+C:\Users\Owner\Dropbox\Compartilhada\Assignment_03\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Owner\Dropbox\Compartilhada\Assignment_03\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Owner\Dropbox\Compartilhada\Assignment_03\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Owner\Dropbox\Compartilhada\Assignment_03\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\RecipeWebsite.RazorTargetAssemblyInfo.cache
+C:\Users\Owner\Dropbox\Compartilhada\Assignment_03\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\RecipeWebsite.RazorTargetAssemblyInfo.cs
+C:\Users\Owner\Dropbox\Compartilhada\Assignment_03\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\RecipeWebsite.Views.pdb
+C:\Users\Owner\Dropbox\Compartilhada\Assignment_03\RecipeWebsite\RecipeWebsite\obj\Debug\netcoreapp2.1\RecipeWebsite.csproj.CopyComplete

@@ -1,0 +1,42 @@
+﻿@model Recipe
+@{
+
+    ViewBag.Title = "View Recipe";
+}
+
+
+
+
+
+<div class="row justify-content-center m-4 ">
+    <div class="col-sm-12">
+        <div class="card">
+            <div class="card-header">
+                <h1 class="text-center">@Model.RecipeName</h1>
+            </div>
+            <div class="card-body text-center">
+                <img class="img-fluid img-thumbnail" src="~/images/noimage.jpg" asp-append-version="true" />
+                <h4>Ingredients:  @Model.Ingredients</h4>
+                <h4>Instructions: @Model.RecipeInstructions</h4>
+                <h4>
+
+                    Reviews:
+                    @foreach (Review rev in Model.Reviews)
+                    {
+                        @rev.MyReview <br />
+                    }
+                </h4>
+            </div>
+            <div class="card-footer text-center">
+                <a asp-controller="Recipe" asp-action="ReviewRecipe" asp-route-RecipeId="@Model.RecipeId" class="btn btn-primary">Add Review</a>
+                <a asp-controller="Recipe" asp-action="RecipeList" class="btn btn-primary m-1">Back</a>
+                <a href="#" class="btn btn-primary m-1">Edit</a>
+                <a href="#" class="btn btn-danger m-1">Delete</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+

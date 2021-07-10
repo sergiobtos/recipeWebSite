@@ -1,0 +1,26 @@
+﻿@model IEnumerable<Recipe>
+
+@{
+
+    ViewBag.Title = "Recipe List";
+}
+
+<div class="card-deck">
+    @foreach (var recipe in Model)
+    {
+        <div class="card m-3">
+            <div class="card-header">
+                <h3>@recipe.RecipeName</h3>
+            </div>
+            @*<img class="img-fluid img-thumbnail" src="/images/noimage.jpg" asp-append-version="true" />*@
+            <div class="card-footer text-center">
+                <a asp-controller="recipe" asp-action="viewrecipe" asp-route-RecipeId="@recipe.RecipeId" class="btn btn-primary m-1">View</a>
+                @*<a asp-controller="Home" asp-action="" asp-route-RecipeId="@recipe.RecipeId" class="btn btn-primary m-1">Edit</a>
+                <a asp-controller="Home" asp-action="" asp-route-RecipeId="@recipe.RecipeId" class="btn btn-danger m-1">Delete</a>*@
+            </div>
+        </div>
+    }
+</div>
+
+
+
