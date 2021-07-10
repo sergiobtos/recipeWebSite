@@ -1,0 +1,40 @@
+1)Right click in the project --> Manage NuGet Packages:
+Inside de Nuget--> Microsoft.EntityFrameworkCore.SqlServer --> Microsoft.EntityFrameworkCore.Relational --> Microsoft.EntityFrameworkCore
+
+2)Inside Models folders create a class called: AppDbContext which must be inheret from :DbContext --> public class AppDbContext : DbContext
+3)Create a constructor :  public AppDbContext(DbContextOptions<AppDbContext> options): base(options)
+        	          {
+       			  }
+4)create a property type <TEntity> : public DbSet<TEntity> nameOfProperty { get; set; } Example: public DbSet<Employee> Employees { get; set; }
+									       public DbSet<Recipe> Recipes { get; set; }
+5)We need to confige startup class: Inside the methodo ConfigureServices add: 
+	services.AddDbContextPool<AppDbContext>(options => options.UseSqlServer(_config.GetConnectionString("EmployeeDbConnection")));
+AddDbContext Pool checks if there is a instance of AppDbContext, if have it wont create a new one. Just will use it.
+
+6)In order the connectionString works we need to insert inside the appsettings.json the follow code:
+Example 01
+{
+  "ConnectionStrings": {
+    "RecipeConnection": "Server=(localdb)\\MSSQLLocalDB;Database=RecipeDb;Trusted_Connection=True;MultipleActiveResultSets=true"
+  }
+}
+Example 02:
+{
+  "ConnectionStrings": {
+    "EmployeeDbConnection": "Server=(localdb)\\MSSQLLocalDB;Database=EmployeeDb;Trusted_Connection=True;MultipleActiveResultSets=true"
+  }
+}
+7)Create a new Class inside de models folder called: SQLAnynameRepository : IAnynameRepository  
+(i.e.: SQLEmployeeRepository : IEmployeeRepository / SQLRecipeRepository : IRecipeRepository)
+8) create a private field readonly : private readonly AppDbContext context;
+9) crate a constructor in order to inject DbContext obeject :
+	public SQLEmployeeRepository(AppDbContext context)
+        {
+            this.context = context;
+        }
+10) Change in startup class --> configureservices --> services.AddScoped<IEmployeeRepository, SQLEmployeeRepository>();
+instance of SQLEmployeeRepository just inside the scope.
+11)Now we need to create Database (EmployeeDb or RecipeDb) using Entity Framework Core Migration as follow:
+	a)click in view --> Other windows --> Package Manager Console;
+	b)type : Add-Migration and add name: InitialMigration
+	c)execute the migration : type --> update-Database 
